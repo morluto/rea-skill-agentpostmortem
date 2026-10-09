@@ -295,5 +295,12 @@
     "category": "collections",
     "desc": "Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking. Needs a LogNorm account (free plan available).",
     "repo": "lognorm/lognorm-mcp"
+  },
+  {
+    "name": "reverse-engineer-anything (REA)",
+    "repo": "morluto/rea",
+    "url": "https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything",
+    "category": "coding",
+    "desc": "Investigate shipped binaries and JavaScript/Electron apps with REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis."
   }
 ]
