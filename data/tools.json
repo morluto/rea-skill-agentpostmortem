@@ -299,7 +299,7 @@
   {
     "name": "reverse-engineer-anything (REA)",
     "repo": "morluto/rea",
-    "url": "https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything",
+    "url": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
     "category": "coding",
     "desc": "Investigate shipped binaries and JavaScript/Electron apps with REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis."
   }
