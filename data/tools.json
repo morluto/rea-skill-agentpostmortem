@@ -297,6 +297,18 @@
     "repo": "lognorm/lognorm-mcp"
   },
   {
+    "name": "Darkmoon pentest skill",
+    "url": "https://github.com/ASCIT31/darkmoon-mcp-server/tree/main/plugins/darkmoon/skills/darkmoon-pentest",
+    "category": "collections",
+    "desc": "Skill and MCP plugin to start authorized autonomous AI pentest runs on your own self-hosted Darkmoon Pro, poll them and triage findings. Needs a Darkmoon Pro dashboard; the open source (GPL-3.0) engine alone is not enough.",
+    "repo": "ASCIT31/darkmoon-mcp-server"
+  },
+  {
+    "name": "Publish with Shipvela",
+    "repo": "stefanautomateed/shipvela-codex",
+    "url": "https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish",
+    "category": "coding",
+    "desc": "MIT publishing skill for static websites through Shipvela's hosted OAuth MCP service, with owner approval, deployment tracking and build logs; requires an account with a free tier.",
     "name": "reverse-engineer-anything (REA)",
     "repo": "morluto/rea",
     "url": "https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything",
